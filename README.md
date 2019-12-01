@@ -6,6 +6,7 @@ I will code the solutions in a readable format, but may also include some code g
 ## Resources & Tools
 - [AoC Subreddit](https://www.reddit.com/r/adventofcode/)
 - [Awesome AoC Resource Collection](https://github.com/Bogdanp/awesome-advent-of-code)
+- [ZtM Community AoC](https://github.com/zero-to-mastery/coding_challenge-24)
 - [Ann's Code in Repl.it](https://repl.it/@anncancode/advent-of-code-play)
 
 ## Problems and Solutions
