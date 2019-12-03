@@ -1,4 +1,4 @@
-const fs = require ("fs")
+const fs = require("fs")
 let data = fs.readFileSync("day01input.txt", "utf-8").split("\n");
 
 // part1
@@ -9,7 +9,7 @@ const fuelReq = (input) => {
 
 const fuelReq_golf = i => i.map(m => Math.floor(Number(m)/3)-2).reduce((t,cv) => t+cv)
 
-//part2
+// part2
 const realFuelReq = (input) => {
   let fuel = input.reduce((totalMass, currentMass) => {
     currentMass = Math.floor(Number(currentMass)/3)-2
